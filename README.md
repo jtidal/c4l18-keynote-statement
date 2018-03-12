@@ -369,6 +369,7 @@ unprofessional behavior.
 * Jessica Moran
 * Jeremy Nelson
 * Alexis Logsdon
+* Junior Tidal (code4Lib Journal Editorial Committee)
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
